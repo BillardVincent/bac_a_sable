@@ -5,7 +5,7 @@ public class Main {
 
         System.out.printf("Bonjour et bienvenue !");
 
-        Utils.compterCinq();
+        Utils.compterSept();
 
         System.out.printf("A bientot !");
 
