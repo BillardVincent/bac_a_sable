@@ -3,11 +3,12 @@ package fr.vbillard;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.printf("Bonjour et bienvenue!");
+        System.out.println("Bonjour et bienvenue !");
 
+        Utils.compterTrois();
         Utils.compterSept();
 
-        System.out.printf("A bientot!");
+        System.out.println("A bientot !");
 
     }
 }
